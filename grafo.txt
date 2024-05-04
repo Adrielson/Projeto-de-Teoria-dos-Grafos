@@ -1,7 +1,0 @@
-ND
-A,E
-E,E
-B,A
-D,B
-C,B
-C,C
